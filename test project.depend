@@ -1,0 +1,138 @@
+# depslib dependency file v1.0
+1483269134 source:c:\users\9031059\desktop\test project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1484941708 source:h:\test project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"linked lists.h"
+	"show menus.h"
+	"PlayersOperations.h"
+	"print_words.h"
+	"doing_game.h"
+
+1484130810 source:f:\test project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"linked lists.h"
+
+1484130718 f:\test project\linked lists.h
+
+1484506148 h:\test project\linked lists.h
+
+1484941634 h:\test project\show menus.h
+
+1484941636 h:\test project\playersoperations.h
+
+1484657998 source:e:\test project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"linked lists.h"
+	"show menus.h"
+	"PlayersOperations.h"
+	"print_words.h"
+	"doing_game.h"
+
+1484506148 e:\test project\linked lists.h
+
+1484613670 e:\test project\show menus.h
+
+1484687752 e:\test project\playersoperations.h
+
+1484595160 source:e:\test project\linked lists.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1484694688 source:e:\test project\playersoperations.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1484657882 source:e:\test project\show menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1484504962 e:\test project\print_words.h
+
+1484464732 e:\test project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	"linked lists.h"
+	"show menus.h"
+	"PlayersOperations.h"
+	"print_words.h"
+
+1484504962 source:e:\test project\print_words.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1484689978 source:e:\test project\doing_game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"print_words.h"
+
+1484688438 e:\test project\doing_game.h
+
+1484942140 source:h:\test project\doing_game.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"print_words.h"
+
+1484504962 h:\test project\print_words.h
+
+1484941660 h:\test project\doing_game.h
+
+1484942140 source:h:\test project\playersoperations.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1484504962 source:h:\test project\print_words.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1484941708 source:h:\test project\show menus.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1484753356 source:h:\test project\linked lists.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
